@@ -1,0 +1,75 @@
+/* 1.Establecer la fuente de texto para toda la página */
+
+* {
+    text-align: left;
+    font-family: 'Open Sans Light 300 Italic', sans-serif;
+}
+
+
+/* 2.Establecer el tamaño máximo y el margen derecho para la clase img */
+
+.img {
+    max-width: 350px;
+    margin-left: 570px;
+}
+
+
+/* 3.Cambiar el color de fondo de toda la página a rojo */
+
+* {
+    background-color: red;
+}
+
+
+/* 4.Aplicar subrayado y color a aquamarine a los elementos h1 */
+
+h1 {
+    text-decoration: underline;
+    color: aquamarine;
+    text-align: center;
+}
+
+
+/* 5.Establecer el color amarillo para los elementos li dentro de ol y ul */
+
+ol li,
+ul li {
+    color: yellow;
+}
+
+
+/* 6.Aplicar subrayado y color chartreuse a la clase Subtitulo */
+
+.Subtitulo {
+    text-decoration: underline;
+    color: chartreuse;
+}
+
+
+/* 7.Cambiar el color a violet para los elementos h2 y p */
+
+h2,
+p {
+    color: violet;
+}
+
+
+/* 8.Establecer el color blanco para los elementos p */
+
+p {
+    color: white;
+}
+
+
+/* 9.Establecer el color de fondo negro para los elementos h3 */
+
+h3 {
+    background-color: black;
+}
+
+
+/* 10.Establecer el color negro para los elementos b dentro de p */
+
+p b {
+    color: black;
+}
